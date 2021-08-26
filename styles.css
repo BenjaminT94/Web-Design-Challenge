@@ -50,3 +50,14 @@ img{
   font-size: 15px;
   border-top-color:white;
 }
+.col-md-12{
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom:40px;
+}
+/* media queries adjustment*/
+@media(max-width:800px){
+  .navbar{
+      padding:inherit;
+  }
+}
