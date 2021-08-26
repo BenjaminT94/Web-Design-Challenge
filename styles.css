@@ -31,7 +31,7 @@ img{
   height:100%;
 }
 .active, .panel:hover {
-  border-color:rgb(52, 149, 165);
+  border-color:turquoise;
   border-style: solid;
   
 }
@@ -48,5 +48,5 @@ img{
 
 .table {
   font-size: 15px;
-  border-top-color: rgb(255, 255, 255);
+  border-top-color:white;
 }
