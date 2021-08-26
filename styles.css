@@ -5,7 +5,7 @@
 }
 h1{
   color:white;
-  background:turquoise;
+  background:#4aaaa5;
 }
 
 .navbar-toggler{
@@ -15,7 +15,7 @@ h1{
 .navbar-brand {
   position: fixed;
   height: 30px;
-  background:turquoise;
+  background:#4aaaa5;
 }
 
 #latbox{
@@ -23,7 +23,7 @@ h1{
 }
 
 h3{
-  color:turquoise;
+  color:#4aaaa5;
 }
 
 img{
@@ -31,7 +31,7 @@ img{
   height:100%;
 }
 .active, .panel:hover {
-  border-color:turquoise;
+  border-color:#4aaaa5;
   border-style: solid;
   
 }
