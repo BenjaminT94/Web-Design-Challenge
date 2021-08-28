@@ -35,6 +35,7 @@ img{
   border-style: solid;
   
 }
+/* Right here I want to reduce my summary plot to half size so the description can wrap around */
 .tempplot {
   width: 50%;
   height:50%;
